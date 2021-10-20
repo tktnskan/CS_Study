@@ -2,7 +2,7 @@
 
 동기(Synchronous)란 첫 번째 request의 종료 시점과 두번째 request의 시작 시점이 맞닿아 있게 행동하는 것을 의미한다. 
 
-![스크린샷 2021-10-20 오전 9.24.53](/Users/gjc03280/Library/Application Support/typora-user-images/스크린샷 2021-10-20 오전 9.24.53.png)
+![스크린샷 2021-10-20 오전 9.24.53](https://tva1.sinaimg.cn/large/008i3skNgy1gvli74ckgej60lu04odfp02.jpg)
 
 즉, 위 그림과 같이 두 작업이 동시에 실행 됐을 경우, A의 종료 시간과 B의 시작 시간이 일치하는 것을 동기라고 한다.  
 
@@ -34,7 +34,7 @@ iOS 개발자를 하고 있어서 그런지, 사실 동기/비동기/블락/논�
 
 하지만 이 넷은 엄연히 다른 개념이였고, 한 블로그에서 정리해둔 글이 가장 와닿아 그 내용을 첨부하며, 이 글을 마무리 한다.
 
-![스크린샷 2021-10-20 오전 9.40.02](/Users/gjc03280/Library/Application Support/typora-user-images/스크린샷 2021-10-20 오전 9.40.02.png)
+![스크린샷 2021-10-20 오전 9.40.02](https://tva1.sinaimg.cn/large/008i3skNgy1gvli70msc9j60jj0ml76602.jpg)
 
 참고자료: https://www.inflearn.com/questions/65766
 
