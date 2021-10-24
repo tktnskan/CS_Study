@@ -14,7 +14,7 @@
        
     4. Stack : 지역번수, 매개변수들이 저장되는 공간이다. 함수가 종료되면 할당된 변수들을 메모리에서 해제시킨다.
 
-   ![memory_structure](/Users/jeongdaun/Desktop/image/memory_structure.png)
+   ![memory_structure](./image/memory_structure.png)
 2. 프로세스는 커널에 의해 관리되며 Ready, blocked, running 등 상태가 있다.
    
     * new -> ready
@@ -80,4 +80,4 @@
     * Context Switching 시, Context Switching 을 수행하는 CPU 는 Cache 를 초기화하고 Memory Mapping 을 초기화하는 작업을 거치는 등 아무 작업도 하지 못하므로
       잦은 Context Switching 은 성능 저하를 가져온다.(아무 작업도 못하는 상황을 OverHead 라고도 한다.)
       
-![context-switching](/Users/jeongdaun/Desktop/image/context_switching.png)
+![context-switching](./image/context_switching.png)
